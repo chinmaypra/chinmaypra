@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Chinmay Prabhu from Saint Johns High school!
+- 👋 Hi, I’m Chinmay Prabhu from Saint Johns High School!
 - 👀 I’m interested in coding, basketball, and going to the gym
 - 🌱 I’m currently learning HTML
